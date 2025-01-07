@@ -6,7 +6,7 @@ import sys
 
 os.system("cls")
 
-download_path = "D:\\Musica"  # Ruta fija para las descargas
+download_path = "Path_File"  # Ruta fija para las descargas
 
 # Función para descargar un video/audio en formato MP3 o MP4
 def download_video_or_audio(link, format_type):
